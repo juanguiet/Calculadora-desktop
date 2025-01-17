@@ -1,0 +1,148 @@
+
+J
+java:S1604Q"(Make this anonymous inner class a lambda(…ğÅ§øÿÿÿÿ8æå½áº2
+E
+java:S1604X"(Make this anonymous inner class a lambda(ùâ“8èå½áº2
+J
+java:S1604_"(Make this anonymous inner class a lambda(Ó©Éúşÿÿÿÿ8èå½áº2
+J
+java:S1604f"(Make this anonymous inner class a lambda(ÕşÅÆÿÿÿÿÿ8èå½áº2
+E
+java:S1604m"(Make this anonymous inner class a lambda(õØ«±8èå½áº2
+J
+java:S1604t"(Make this anonymous inner class a lambda(¸¼øèúÿÿÿÿ8èå½áº2
+E
+java:S1604{"(Make this anonymous inner class a lambda(Ÿ¶şî8èå½áº2
+F
+java:S1604‚"(Make this anonymous inner class a lambda(½êá8èå½áº2
+F
+java:S1604"(Make this anonymous inner class a lambda(Ü¼ÒÙ8èå½áº2
+K
+java:S1604š"(Make this anonymous inner class a lambda(Åñ›ùÿÿÿÿ8èå½áº2
+K
+java:S1604¡"(Make this anonymous inner class a lambda(¢àÚùÿÿÿÿ8èå½áº2
+K
+java:S1604¨"(Make this anonymous inner class a lambda( äİãşÿÿÿÿ8èå½áº2
+F
+java:S1604¯"(Make this anonymous inner class a lambda(ˆ•˜8èå½áº2
+F
+java:S1604¶"(Make this anonymous inner class a lambda(äïìó8èå½áº2
+F
+java:S1604½"(Make this anonymous inner class a lambda(€ÍÓŒ8èå½áº2
+K
+java:S1604Ä"(Make this anonymous inner class a lambda(¿Ãë×øÿÿÿÿ8èå½áº2
+K
+java:S1604Ë"(Make this anonymous inner class a lambda(™Î¾¸ıÿÿÿÿ8èå½áº2
+F
+java:S1604Ò"(Make this anonymous inner class a lambda(•ª’ã8èå½áº2
+K
+java:S1604É"(Make this anonymous inner class a lambda(„±ÓÎùÿÿÿÿ8èå½áº2
+K
+java:S1604ó"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8èå½áº2
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÖßüÿÿÿÿ
+v
+java:S1450û"SRemove the "btn0" field and declare it as a local variable in the relevant methods.(ŞÇ¾Åùÿÿÿÿ8¥è½áº2
+q
+java:S1450ü"SRemove the "btn1" field and declare it as a local variable in the relevant methods.(ÙË¢ô8³è½áº2
+v
+java:S1450ı"SRemove the "btn2" field and declare it as a local variable in the relevant methods.(º©¨…øÿÿÿÿ8³è½áº2
+q
+java:S1450ş"SRemove the "btn3" field and declare it as a local variable in the relevant methods.(³‘ŒÀ8³è½áº2
+q
+java:S1450ÿ"SRemove the "btn4" field and declare it as a local variable in the relevant methods.(İÍı®8³è½áº2
+q
+java:S1450€"SRemove the "btn5" field and declare it as a local variable in the relevant methods.(üêĞÈ8³è½áº2
+p
+java:S1450"SRemove the "btn6" field and declare it as a local variable in the relevant methods.(’ì¸(8³è½áº2
+v
+java:S1450‚"SRemove the "btn7" field and declare it as a local variable in the relevant methods.(©µ€»øÿÿÿÿ8³è½áº2
+v
+java:S1450ƒ"SRemove the "btn8" field and declare it as a local variable in the relevant methods.(‡¸µĞüÿÿÿÿ8³è½áº2
+v
+java:S1450„"SRemove the "btn9" field and declare it as a local variable in the relevant methods.(Óîºúÿÿÿÿ8³è½áº2
+„
+java:S1450…"aRemove the "btnabrirparentecis" field and declare it as a local variable in the relevant methods.(ÄŸÂûıÿÿÿÿ8³è½áº2
+…
+java:S1450†"bRemove the "btncerrarparentecis" field and declare it as a local variable in the relevant methods.(ŠÑ¿·ùÿÿÿÿ8³è½áº2
+z
+java:S1450‡"WRemove the "btnclean" field and declare it as a local variable in the relevant methods.(¡‡Ê‚şÿÿÿÿ8³è½áº2
+|
+java:S1450ˆ"YRemove the "btndividir" field and declare it as a local variable in the relevant methods.(¨ƒŠ×úÿÿÿÿ8³è½áº2
+u
+java:S1450‰"WRemove the "btnigual" field and declare it as a local variable in the relevant methods.(±½È8³è½áº2
+{
+java:S1450Š"]Remove the "btnmultiplicar" field and declare it as a local variable in the relevant methods.( ²ÄĞ8Ãè½áº2
+{
+java:S1450‹"XRemove the "btnrestar" field and declare it as a local variable in the relevant methods.(Á°ÿôüÿÿÿÿ8Ãè½áº2
+z
+java:S1450Œ"WRemove the "btnsumar" field and declare it as a local variable in the relevant methods.(â¢¥¶ûÿÿÿÿ8Ãè½áº2
+s
+java:S1450"URemove the "jMenu1" field and declare it as a local variable in the relevant methods.(şÚÖ˜8Ãè½áº2
+t
+java:S1450"XRemove the "jMenuBar1" field and declare it as a local variable in the relevant methods.(úıÁ›ÿÿÿÿÿ
+v
+java:S1450"YRemove the "jMenuItem1" field and declare it as a local variable in the relevant methods.(Éíå48Ãè½áº2
+x
+java:S1450‘"aRemove the "jpfondocalculadora" field and declare it as a local variable in the relevant methods.(˜Ë¢£
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°²­Ì
+[
+java:S3252 "@Use static access with "javax.swing.SwingConstants" for "RIGHT".(¯‡ç¹üÿÿÿÿ
+V
+java:S3252!"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ô‚ıá
+b	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é÷ù 
+]
+java:S1161ˆ":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ8óè½áº2
+]
+java:S1161”":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ8óè½áº2
+M
+java:S1172â"*Remove this unused method parameter "evt".(³ä¤ùÿÿÿÿÿ8Ãé½áº2
+^	java:S125ã"<This block of commented-out lines of code should be removed.(­Ù×ÿùÿÿÿÿ8Ãé½áº2
+H
+java:S1172é"*Remove this unused method parameter "evt".( –¢£8Ãé½áº2
+^	java:S125ê"<This block of commented-out lines of code should be removed.(¸ïùÀùÿÿÿÿ8Ãé½áº2
+H
+java:S1172ğ"*Remove this unused method parameter "evt".(ˆè¥8Ãé½áº2
+M
+java:S1172õ"*Remove this unused method parameter "evt".(ÎƒŞŒÿÿÿÿÿ8Êé½áº2
+H
+java:S1172ú"*Remove this unused method parameter "evt".(œÈéª8Ìé½áº2
+M
+java:S1172ÿ"*Remove this unused method parameter "evt".(Åªî—ÿÿÿÿÿ8Ìé½áº2
+H
+java:S1172„"*Remove this unused method parameter "evt".(æÌ×ö8Îé½áº2
+M
+java:S1172‰"*Remove this unused method parameter "evt".(øŸ£‹ıÿÿÿÿ8Îé½áº2
+G
+java:S1172"*Remove this unused method parameter "evt".(­¼ä8Ğé½áº2
+H
+java:S1172“"*Remove this unused method parameter "evt".(è÷¹«8Óé½áº2
+H
+java:S1172˜"*Remove this unused method parameter "evt".(ï§¶–8Óé½áº2
+H
+java:S1172"*Remove this unused method parameter "evt".(İñ×á8Óé½áº2
+M
+java:S1172¢"*Remove this unused method parameter "evt".(øë®ÿÿÿÿÿ8Óé½áº2
+H
+java:S1172©"*Remove this unused method parameter "evt".(£„şÛ8Óé½áº2
+M
+java:S1172®"*Remove this unused method parameter "evt".(úÏü·ÿÿÿÿÿ8Óé½áº2
+M
+java:S1172³"*Remove this unused method parameter "evt".(ŒõÁüÿÿÿÿ8Óé½áº2
+M
+java:S1172¸"*Remove this unused method parameter "evt".(€¼œ˜ùÿÿÿÿ8Óé½áº2
+H
+java:S1172½"*Remove this unused method parameter "evt".(ÕÁ¬å8Óé½áº2
+M
+java:S1172Â"*Remove this unused method parameter "evt".(³äÇÿÿÿÿÿ8âé½áº2
+M
+java:S1172Ç"*Remove this unused method parameter "evt".(Èüšìüÿÿÿÿ8âé½áº2
+H
+java:S1172Ó"*Remove this unused method parameter "evt".(ÆÀÁ8âé½áº2
+M
+java:S1197Ú"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8âé½áº2
+c
+java:S2147é"ECombine this catch with the one at line 487, which has the same body.(¨¦Š½8âé½áº2
+c
+java:S2147ë"ECombine this catch with the one at line 489, which has the same body.(ã€ 8âé½áº2
+b
+java:S2147í"ECombine this catch with the one at line 491, which has the same body.(ñÎ¯%8âé½áº2
